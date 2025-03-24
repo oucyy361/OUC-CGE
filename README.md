@@ -5,5 +5,16 @@ We tried six methods to achieve student group engagement classification.The accu
 # Demo
 
 
-https://github.com/user-attachments/assets/b3dbb15f-b5d0-4e66-a18b-9679811f0f94
+
+
+
+https://github.com/user-attachments/assets/b46690e3-e947-4e45-9697-8b63c90be822
+
+
+
+https://github.com/user-attachments/assets/ea8b881c-8198-4aa7-b250-20e5412e3ce0
+
+
+
+https://github.com/user-attachments/assets/4a528bfe-6d87-47d7-9083-a9f2a069ef77
 
